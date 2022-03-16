@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SP</string>
+    <string name="username">Username</string>
+    <string name="app_background">App background color</string>
+    <string-array name="colors">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+    </string-array>
+    <string name="all_caps">All caps</string>
+</resources>
+
+
+
